@@ -1,2 +1,0 @@
-# dhuyvp.github.io
-MinGW
